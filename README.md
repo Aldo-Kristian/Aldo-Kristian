@@ -37,7 +37,7 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: [github.com/yourusername](https://github.com/Aldo-Kristian)
+- GitHub: [github.com/Aldo-Kristian](https://github.com/Aldo-Kristian)
 
 ---
 
